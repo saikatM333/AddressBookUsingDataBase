@@ -10,12 +10,10 @@ namespace AddressBookUsingDataBase
     public class CreateContactDeatils : MakeTable
     {
         private readonly Connection _connection;
-
         public CreateContactDeatils(Connection connection)
         {
             _connection = connection;
         }
-
         public void CreateTables(string tableName)
         {
             using (var connection = _connection.Connect())
