@@ -1,0 +1,12 @@
+﻿addressBook
+id  name
+1	Personal
+2	Work
+
+ContactDetails
+
+1	saikat	john@example.com	1234567890	New York	NY	        10001	1
+3	rahul	rahul@gmail.com	    234567890	bangalore	whitefield	1234	2
+4	sam	     sam@gmail.com	    459553485	mangalore	abc	        1234	1
+5	harhi	 harshi@gmail.com	12459420	mysore	    xyz	        1234	1
+6	nakul	nakul@gmail.com	    988747593	tirupati	pqrt	    1234	2
