@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddressBookUsingDataBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d296a5da0e164e7449ac0ebf684d426f6366db2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddressBookUsingDataBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddressBookUsingDataBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
